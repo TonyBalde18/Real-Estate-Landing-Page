@@ -1,9 +1,13 @@
 color pallete:
 Main - Red - rgb(163,27,27)
 #A31B1B
+#931818
 
 Main text - White -  rgb(246,228,227)
 
 https://imagecolorpicker.com/
 -----------------------------------------
 
+https://resizing.app/blog/how-to-resize-image-without-losing-quality/
+
+1982x954 - banner resolution
