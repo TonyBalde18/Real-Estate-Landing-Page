@@ -1,5 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,600);
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url();
 * {
   margin: 0;
   padding: 0;
@@ -1471,4 +1473,32 @@ figure.effect-bubba:hover a {
 }
 .isotopeWrapper article {
   margin: 0px;
+}
+
+.testimonials {
+  padding: 20px 0;
+}
+
+.testimonials .card {
+  border-bottom: 2.5px #a31b1b solid !important;
+  transition: 1s;
+  margin-top: 50px;
+}
+.testimonials .card i {
+  background-color: #a31b1b;
+  color: #ffffff;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  margin: -40px auto 0 auto;
+}
+.testimonials .card-body p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.testimonials .blockquote-footer {
+  font-size: 15px;
+  color: #a31b1b;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 10px 10px 10px;
 }
