@@ -3,9 +3,9 @@ Note:
 
 Website ainda em fase de testes, baseado no template feito por http://webthemez.com/
 
-O intuito do site é servir de base informativa para a agência imobiliária Terraços e Âncoras
+O intuito do site Ã© servir de base informativa para a agÃªncia imobiliÃ¡ria TerraÃ§os e Ã‚ncoras
 
-Créditos
+CrÃ©ditos
 =======
 Framework  http://getbootstrap.com
 Images	(http://unsplash.com - CC0 licensed)
@@ -16,5 +16,7 @@ http://www.track2realty.com/
 Icons	Font Awesome (http://fortawesome.github.com/Font-Awesome/)
 Other	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 
+Demo here: teademo.netlify.app
 
-Note: Todas as imagens usadas neste modelo são apenas para uso de demonstração, não sou responsável por nenhum problema de direitos autorais.	
+
+Note: Todas as imagens usadas neste modelo sÃ£o apenas para uso de demonstraÃ§Ã£o, nÃ£o sou responsÃ¡vel por nenhum problema de direitos autorais.	
